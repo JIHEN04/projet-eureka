@@ -1,7 +1,8 @@
-# Projet Eureka – Architecture Web Distribuée (ESPRIT 2026-2027)
+﻿# Projet Eureka – Architecture Web Distribuée (ESPRIT 2026-2027)
 
 ## Équipe
 - Boussaada Fatma
+- Sliti Jihen
 - sliti jihen
 
 ## Architecture
